@@ -1,0 +1,1 @@
+Using the range method and random module to create a list comprehension in Python.
